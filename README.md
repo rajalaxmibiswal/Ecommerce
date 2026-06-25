@@ -10,7 +10,7 @@
 
 A full-stack e-commerce web application built with **Spring Boot**, featuring role-based access control for Admins and Users, product management, order processing, and a contact system.
 
-[Features](#-features) · [Tech Stack](#-tech-stack) · [Project Structure](#-project-structure) · [Getting Started](#-getting-started) · [Installation & Setup](#-installation-&-setup).
+[Features](#-features) · [Tech Stack](#-tech-stack) · [Project Structure](#-project-structure) · [Getting Started](#-getting-started) ·
 
 </div>
 
